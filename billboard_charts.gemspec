@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kei@ie4.me"]
   spec.summary       = %q{get billboard chart}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ie4"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
