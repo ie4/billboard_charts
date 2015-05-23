@@ -4,8 +4,9 @@
 [![Code Climate](https://codeclimate.com/github/ie4/billboard_charts/badges/gpa.svg)](https://codeclimate.com/github/ie4/billboard_charts)
 [![Gem Version](https://badge.fury.io/rb/billboard_charts.svg)](http://badge.fury.io/rb/billboard_charts)
 [![Coverage Status](https://coveralls.io/repos/ie4/billboard_charts/badge.svg?branch=master)](https://coveralls.io/r/ie4/billboard_charts?branch=master)
+[![Dependency Status](https://gemnasium.com/ie4/billboard_charts.svg)](https://gemnasium.com/ie4/billboard_charts)
 
-by ie4
+by ie4 ( http://ie4.me/ )
 
 https://github.com/ie4/billboard_charts
 
