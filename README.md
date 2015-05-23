@@ -40,3 +40,7 @@ Or install it yourself as:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ie4/billboard_charts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
