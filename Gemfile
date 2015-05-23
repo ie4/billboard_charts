@@ -5,3 +5,7 @@ gemspec
 
 gem 'nokogiri'
 gem 'rspec'
+
+group :test do
+  gem 'coveralls', :require => false
+end

@@ -1,5 +1,14 @@
 # BillboardCharts
 
+[![Build Status](https://travis-ci.org/ie4/billboard_charts.svg?branch=master)](https://travis-ci.org/ie4/billboard_charts)
+[![Code Climate](https://codeclimate.com/github/ie4/billboard_charts/badges/gpa.svg)](https://codeclimate.com/github/ie4/billboard_charts)
+[![Gem Version](https://badge.fury.io/rb/billboard_charts.svg)](http://badge.fury.io/rb/billboard_charts)
+[![Coverage Status](https://coveralls.io/repos/ie4/billboard_charts/badge.svg?branch=master)](https://coveralls.io/r/ie4/billboard_charts?branch=master)
+
+by ie4
+
+https://github.com/ie4/billboard_charts
+
 get billboard chart
 
 ## Installation
@@ -30,6 +39,3 @@ Or install it yourself as:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-## Code Status
-
-[![Build Status](https://travis-ci.org/ie4/billboard_charts.svg?branch=master)](https://travis-ci.org/ie4/billboard_charts)
