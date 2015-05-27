@@ -10,8 +10,6 @@ by ie4 ( http://ie4.me/ )
 
 https://github.com/ie4/billboard_charts
 
-get billboard chart
-
 ## Installation
 
 Add this line to your application's Gemfile:
