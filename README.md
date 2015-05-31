@@ -10,6 +10,8 @@ by ie4 ( http://ie4.me/ )
 
 https://github.com/ie4/billboard_charts
 
+[![asciicast](https://asciinema.org/a/13khvd4chkenxdhoiuq1mydrr.png)](https://asciinema.org/a/13khvd4chkenxdhoiuq1mydrr)
+
 ## Installation
 
 Add this line to your application's Gemfile:
